@@ -3,4 +3,6 @@ void main(List<String> args) {
 
   print("ini tambahan teks dari branch FeatureA");
   print("ini tambahan teks dari branch FeatureB");
+
+  print("ini teks langsung dari master");
 }
